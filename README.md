@@ -16,7 +16,7 @@ A website where you can log in (doesn't currently work as I wasn't able to get a
 
 A website that displays player and team statistics using the pybaseball API.  The website also then uses TensorFlow machine learning to predict future player stats using their past aggregate stats and more advanced batted/pitched ball data.
 
-###Data Science
+### Data Science
 
 [2020 Election Data Aggregation](https://github.com/Haxor48/2020ElectionData)
 
@@ -26,7 +26,7 @@ A small project to practice Excel functions where I aggregated data from the 202
 
 A write-up I did using the nbastatR package where I did a what-if scenario where every NBA player returned to the original team with their draft pick. I analyzed which teams would improve, as well as covered and explained certain NBA statistics to a more common fan.
 
-###Game Design
+### Game Design
 
 [Price Cut](https://github.com/Haxor48/InteractiveHorrorGame)
 
