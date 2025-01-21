@@ -34,6 +34,16 @@ In this project, we pulled data from the S&P 250 stocks and then used Proximal P
 
 In this project, me and others created a biased subsampler on a classification dataset (Ex: Make it so the data is 70% False, 30% True) and tested to see how it would affect the accuracy of various machine learning models. The models we tested on were K-Nearest Neighbors, a Logistic Classifier, a Neural Network, and the kMeans algorithm.
 
+### Artificial Intelligence/Algorithms
+
+[Creating a Local Search Engine Using Lemmatization and Ranking Algorithms](https://github.com/Haxor48/local-corpus-search-engine)
+
+A class project where we made our own search engine (with a UI) that uses multi-token lemmatization and then a ranking algorithm to search a dataset from UC Irvine web links efficiently.
+
+[C++ Minesweeper AI](https://github.com/Haxor48/Cpp-Minesweeper-AI)
+
+A project with someone else where we used C++ and different artificial intelligence algorithms such as Constraint Satisfaction Problems, Backtracking Search, Local Search, and Markov Decisions to find either the optimal decision or choose a decision with the highest chance of success, with the general goal of having the AI win games of Minesweeper.
+
 ### Data Analysis
 
 [2020 Election Data Aggregation](https://github.com/Haxor48/2020ElectionData)
@@ -43,16 +53,6 @@ A small project to practice Excel functions where I aggregated data from the 202
 [NBA Players Return Write-up](https://github.com/Haxor48/nba-players-return)
 
 A write-up I did using the nbastatR package where I did a what-if scenario where every NBA player returned to the original team with their draft pick. I analyzed which teams would improve, as well as covered and explained certain NBA statistics to a more common fan.
-
-### Other Programming Projects
-
-[Creating a Local Search Engine Using Lemmatization and Ranking Algorithms](https://github.com/Haxor48/local-corpus-search-engine)
-
-A class project where we made our own search engine (with a UI) that uses multi-token lemmatization and then a ranking algorithm to search a dataset from UC Irvine web links efficiently.
-
-[C++ Minesweeper AI](https://github.com/Haxor48/Cpp-Minesweeper-AI)
-
-A project with someone else where we used C++ and different artificial intelligence algorithms such as Constraint Satisfaction Problems, Backtracking Search, Local Search, and Markov Decisions to find either the optimal decision or choose a decision with the highest chance of success, with the general goal of having the AI win games of Minesweeper.
 
 ### Game Design
 
