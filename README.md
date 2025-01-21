@@ -16,7 +16,7 @@ A website where you can log in (doesn't currently work as I wasn't able to get a
 
 A website that displays player and team statistics using the pybaseball API.  The website also then uses TensorFlow machine learning to predict future player stats using their past aggregate stats and more advanced batted/pitched ball data.
 
-### Data Science
+### Machine Learning
 
 [Predicting UCL Injuries Among MLB PLayers](https://github.com/Haxor48/CS184A_Final_Project)
 
@@ -33,6 +33,8 @@ In this project, we pulled data from the S&P 250 stocks and then used Proximal P
 [Testing the Effects of Biased Subsampling on Various Machine Learning Models](https://github.com/Haxor48/Biased-Sampling-On-Machine-Learning-Models)
 
 In this project, me and others created a biased subsampler on a classification dataset (Ex: Make it so the data is 70% False, 30% True) and tested to see how it would affect the accuracy of various machine learning models. The models we tested on were K-Nearest Neighbors, a Logistic Classifier, a Neural Network, and the kMeans algorithm.
+
+### Data Analysis
 
 [2020 Election Data Aggregation](https://github.com/Haxor48/2020ElectionData)
 
