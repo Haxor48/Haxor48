@@ -6,16 +6,6 @@ Hi!  I'm Connor, a Computer Science major, Statistics and Economics double minor
 
 ## My Projects
 
-### Websites
-
-[Discoverify](https://github.com/Haxor48/discoverify)
-
-A website where you can log in (doesn't currently work as I wasn't able to get approval for usage of the Spotify API) and view your most played artists and songs.  The website also recommends new artists via an algorithm, where you can like and dislike the recommended artists to further influence new recommended artists.
-
-[Artificial Scout](https://github.com/Haxor48/mlb_predict)
-
-A website that displays player and team statistics using the pybaseball API.  The website also then uses TensorFlow machine learning to predict future player stats using their past aggregate stats and more advanced batted/pitched ball data.
-
 ### Machine Learning
 
 [Predicting UCL Injuries Among MLB PLayers](https://github.com/Haxor48/CS184A_Final_Project)
@@ -43,6 +33,16 @@ A class project where we made our own search engine (with a UI) that uses multi-
 [C++ Minesweeper AI](https://github.com/Haxor48/Cpp-Minesweeper-AI)
 
 A project with someone else where we used C++ and different artificial intelligence algorithms such as Constraint Satisfaction Problems, Backtracking Search, Local Search, and Markov Decisions to find either the optimal decision or choose a decision with the highest chance of success, with the general goal of having the AI win games of Minesweeper.
+
+### Websites
+
+[Discoverify](https://github.com/Haxor48/discoverify)
+
+A website where you can log in (doesn't currently work as I wasn't able to get approval for usage of the Spotify API) and view your most played artists and songs.  The website also recommends new artists via an algorithm, where you can like and dislike the recommended artists to further influence new recommended artists.
+
+[Artificial Scout](https://github.com/Haxor48/mlb_predict)
+
+A website that displays player and team statistics using the pybaseball API.  The website also then uses TensorFlow machine learning to predict future player stats using their past aggregate stats and more advanced batted/pitched ball data.
 
 ### Data Analysis
 
